@@ -18,7 +18,7 @@ The **Finance Tracker API** is a RESTful API that helps users track their **inco
  * Setup Instructions**
  # ** Clone the Repository**
 # shell
-git clone [https://github.com/SE3040/project-finance-tracker.git](https://github.com/Shermon69/Finance-Tracker.git)
+git clone https://github.com/Shermon69/Finance-Tracker.git
 
 Install Dependencies
 
